@@ -12,6 +12,6 @@ Built with Flask and SQLAlchemy.
    ```bash
    flask run
 
-3. Run application with Docker Compose:
+3. Build and Run application with Docker Compose:
    ```bash
    docker-compose up --build
